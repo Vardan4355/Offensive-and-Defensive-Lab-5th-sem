@@ -22,19 +22,19 @@ This experiment was carried out only in a lab setup with consent and proper auth
 
 The first screenshot shows Hydra being executed from the terminal with the target service configured. The command is used to test authentication attempts against the lab target in a controlled environment.
 
-![Hydra command launched in the terminal](Screenshot 2026-11-13 151222(1).png)
+![Hydra command launched in the terminal](https://github.com/4316sushil39/Offensive-and-defensive-security-COM-502-/raw/main/Exp-9/Screenshot%202026-11-13%20151222.png)
 
 ### Step 2: Attempt password guessing
 
 The second screenshot shows the authentication attempts being processed by Hydra. It records the tool trying multiple credentials against the target service, which is the core step in password guessing.
 
-![Hydra attempting login combinations against the target](Screenshot 2026-11-13 151312(1).png)
+![Hydra attempting login combinations against the target](https://github.com/4316sushil39/Offensive-and-defensive-security-COM-502-/raw/main/Exp-9/Screenshot%202026-11-13%20151312.png)
 
 ### Step 3: Confirm the successful login result
 
 The third screenshot captures the successful result returned by Hydra. This confirms that a valid credential pair was found during the authorized lab exercise.
 
-![Hydra result showing the recovered valid credentials](Screenshot 2026-11-13 152144(1).png)
+![Hydra result showing the recovered valid credentials](https://github.com/4316sushil39/Offensive-and-defensive-security-COM-502-/raw/main/Exp-9/Screenshot%202026-11-13%20152144.png)
 
 ## Result
 
